@@ -27,5 +27,14 @@ mytorch/
 │   └── CTCDecoding
 ├── toy_example/              # Contains runnable examples
 │   └── mlp_example
-└── testing/              # Includes unit tests and scripts to verify the correctness and performance of various components in the framework
+├── testing/              # Includes unit tests and scripts to verify the correctness and performance of various components in the framework
+│   ├── HW1_Tests/
+│   ├── HW2_Tests/
+│   ├── HW3_Tests/
+│   └── HW4_Tests/
+└── sandbox/
+    ├── HW1_Sandbox/
+    ├── HW2_Sandbox/
+    ├── HW3_Sandbox/
+    └── HW4_Sandbox/
 
